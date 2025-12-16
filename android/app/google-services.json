@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088291498642",
+    "project_id": "k-v6014-events-app-5e1gxd",
+    "storage_bucket": "k-v6014-events-app-5e1gxd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088291498642:android:c1eb5a4a2f03736ac9d44b",
+        "android_client_info": {
+          "package_name": "com.mycompany.kv6014eventsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqBXV0QpsgChdLuhNFBNl8EHho0BqGq7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
