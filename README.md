@@ -16,3 +16,11 @@
     ```bash
     flutter pub get
     ```
+
+
+How to Run
+To see the app in the specific **Phone Display Mode**, run the app in Chrome:
+
+```bash
+flutter run -d chrome
+```
