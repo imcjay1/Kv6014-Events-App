@@ -12,7 +12,12 @@
     cd [YOUR_PROJECT_FOLDER_NAME]
     ```
 
-3.  **Install dependencies:**
+3. **Download Flutter SDK:**
+   ```bash
+   https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter
+   ```
+
+4.  **Install dependencies:**
     ```bash
     flutter pub get
     ```
