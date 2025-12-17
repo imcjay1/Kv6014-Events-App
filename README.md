@@ -24,3 +24,21 @@ To see the app in the specific **Phone Display Mode**, run the app in Chrome:
 ```bash
 flutter run -d chrome
 ```
+
+
+For logins into the app use the following:
+ADMIN:
+```bash
+admin@gmail.com
+```
+```
+Admin7745
+```
+
+USER:
+```bash
+user@northumbria.ac.uk
+```
+```
+User7745
+```
